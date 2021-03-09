@@ -1,4 +1,4 @@
-## CRUD COMPLETO SERVLET
+## CRUD SERVLET JSP
 
 CRUD completo de Empresas utilizando Servlet e JSP.
 
