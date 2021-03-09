@@ -15,7 +15,13 @@ Bibliotecas:
 - GSON
 - XStream
 
-Servidor:
-Tomcat 9.0.4
-
 Para representar o banco de dados foi utilizado um ArrayList.
+
+Exemplo de teste de URLs:
+- localhost:8080/entrada?acao=ListaEmpresas
+- /entrada?acao=NovaEmpresaForm
+- /entrada?acao=LoginForm
+
+Logins cadastrados:
+- Login: alexandre | Senha: 12345
+- Login: vitor | Senha: 123
