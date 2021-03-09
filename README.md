@@ -18,9 +18,9 @@ Bibliotecas:
 Para representar o banco de dados foi utilizado um ArrayList.
 
 Exemplo de teste de URLs:
-- localhost:8080/entrada?acao=ListaEmpresas
-- /entrada?acao=NovaEmpresaForm
-- /entrada?acao=LoginForm
+- localhost:8080/cadastro/entrada?acao=ListaEmpresas
+- /cadastro/entrada?acao=NovaEmpresaForm
+- /cadastro/entrada?acao=LoginForm
 
 Logins cadastrados:
 - Login: alexandre | Senha: 12345
